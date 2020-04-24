@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">
+        Check In
+    </string>
+    <string name="Instructions">
+        Coloca el dedo en el sensor:
+    </string>
+    <string name="Fingerprint">
+        Fingerprint
+    </string>
+    <string name="bntUsarPass">
+        Usar Usuario y Contraseña
+    </string>
+    <string name="Instruction">Coloca el dedo en el sensor:</string>
+    <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="checar">Checar Llegada</string>
+    <string name="historial">Historial</string>
+    <string name="error">Reportar Error</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="errorTxt">"Descripción del error"</string>
+    <string name="reportarError">"Reportar error"</string>
+    <string name="btnBuscar">"Buscar"</string>
+    <string-array name="cbAnios">
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    <string-array name="cbMes">
+        <item>01.- Enero</item>
+        <item>02.- Febrero</item>
+        <item>03.- Marzo</item>
+        <item>04.- Abril</item>
+        <item>05.- Mayo</item>
+        <item>06.- Junio</item>
+        <item>07.- Julio</item>
+        <item>08.- Agosto</item>
+        <item>09.- Septiembre</item>
+        <item>10.- Octubre</item>
+        <item>11.- Noviembre</item>
+        <item>12.- Diciembre</item>
+    </string-array>
+
+</resources>
